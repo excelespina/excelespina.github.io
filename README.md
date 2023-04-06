@@ -2,4 +2,4 @@
 
 [Privacy Policy](./privacy-policy.md)
 
-[Data Deletion](./data-deletion.md)
+[Data Deletion](./data_deletion.md)
